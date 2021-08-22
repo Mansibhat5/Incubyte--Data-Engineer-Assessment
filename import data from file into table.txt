@@ -1,0 +1,6 @@
+IMPORT data from file through import wizard
+
+ Step 1 : we need to create a database table with same number of columns as in your file.
+ step 2 : Import file into Mysql table by clicking on import wizard button and we will see a ' open dialog box'.
+ step 3 : Browse your file and click on next.
+ step 4 : Import wizard will try to match the fields of table with fields of file and if its matching , it will import the file data into appropriate table.
